@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/aventayolboada/aventayolboada.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am PhD student at the University of California, Santa Barbara. I am originally from Sabadell, a town just 15mi north of Barcelona. Over the last few years I've lived in Poland, Wales, and England, before crossing the pond to the United States in 2017. I use he/him/his pronouns in English. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a field linguist, who approaches language through multiple lenses and methodologies: I combine computational methods, corpus analysis, psycholinguistic experiments, and sociolinguistic interviews. 
+My current research explores the processes of language maintenance and language change in Indigenous diaspora communities, both nationally and transnationally. I collaborate with the Ñuu Savi (Mixtec) diaspora community in California's Central Coast, and with the Wadul and Odul (Yukaghir) communities in Northeastern Siberia.  
 
-### Markdown
+In 2013 I graduated with a BA in Linguistics and minors in Polish and Russian from the University of Barcelona. 
+I gained my MA in Cognitive Linguistics from Bangor University in 2015 and before joining the Department of Linguistics at UC Santa Barbara, 
+I taught Catalan at the University of Cambridge with a Batista i Roca Fellowship from Fitzwilliam College, Institut Ramon Llull and the Valencian Language Academy. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aventayolboada/aventayolboada.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
